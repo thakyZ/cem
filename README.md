@@ -1,6 +1,12 @@
-# Custom Entity Models (but for Fabric)
+# Custom Entity Models (but for Forge)
 
 An implementation of custom entity models heavily based off of Optifine's format that aims to achieve feature parity with Optifine's custom entity models.
+
+## Changes from Fabric
+
+I modified the mod to be built from Architectury API and I have tested it to make sure it works.   
+I will not distribute any binary of this, if you want it you'll need to build it yourself.
+
 
 ## Current State of this Mod
 
