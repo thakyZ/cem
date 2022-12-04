@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.dorianpb.cem.common.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "BlockEntityRendererAccessor",
+    "DilationAccessor",
+    "EntityRendererAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
