@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.dorianpb.cem.forge.mixins.forge",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "BipedMixin",
+    "EntityModelLoaderMixin",
+    "HeadFeatureRendererMixin",
+    "ModelCuboidDataMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,15 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+#issueTrackerURL = ""
+license = " LGPL-3.0-only"
+
+[[mods]]
+modId = "cem"
+version = "${version}"
+displayName = "Custom Entity Models"
+authors = "thakyZ"
+credits = "dorianpb"
+description = '''
+Allows for loading custom models into the game as defined by .jem and .jpm files in a resource pack.
+'''
+logoFile = "cem.png"
